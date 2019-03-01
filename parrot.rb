@@ -6,4 +6,6 @@ end
 
 parrot()
 
+parrot("Squawk!")
+
 parrot("Pretty bird!")
